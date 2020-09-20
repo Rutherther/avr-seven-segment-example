@@ -1,0 +1,3 @@
+[submodule "lib/avr-seven-segment"]
+	path = lib/avr-seven-segment
+	url = https://github.com/Rutherther/avr-seven-segment.git
